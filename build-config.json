@@ -1,0 +1,13 @@
+{
+    "device": "",
+    "source": "",
+    "linux": "",
+    "firmware": "",
+    "hostname": "",
+    "username": "",
+    "password": "",
+    "pre-installed-packages": "",
+    "openssh-server": "",
+    "enable-serives": "",
+    "desktop-package": ""
+}

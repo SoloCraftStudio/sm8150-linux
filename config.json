@@ -1,10 +1,18 @@
 {
+    "name": "xiaomi",
     "xiaomi": {
+        "name": "raphael chpeheus",
         "raphael": {
-            "name": "Redmi K20 Pro/Mi 9T Pro",
+            "name": "Redmi K20 Pro/XiaoMi 9T Pro",
             "codename": "raphael",
             "linux": "https://github.com/SoloCraftStudio/sm8150-linux/tree/raphael",
             "firmware": "https://github.com/SoloCraftStudio/sm8150-linux/tree/raphael"
+        },
+        "chpeheus": {
+            "name": "XiaoMi 9",
+            "codename": "chpeheus",
+            "linux": "https://github.com/SoloCraftStudio/sm8150-linux/tree/chpeheus",
+            "firmware": "https://github.com/SoloCraftStudio/sm8150-linux/tree/chpeheus"
         }
     }
 }
