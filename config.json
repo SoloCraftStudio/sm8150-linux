@@ -1,0 +1,10 @@
+{
+    "xiaomi": {
+        "raphael": {
+            "name": "Redmi K20 Pro/Mi 9T Pro",
+            "codename": "raphael",
+            "linux": "https://github.com/SoloCraftStudio/sm8150-linux/tree/raphael",
+            "firmware": "https://github.com/SoloCraftStudio/sm8150-linux/tree/raphael"
+        }
+    }
+}
